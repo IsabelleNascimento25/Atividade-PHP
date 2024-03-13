@@ -6,7 +6,7 @@
 [Autores](#autores)  
 
 # Projeto - 
-    *Aula 1
+   
      A orientação é:
 
 Você deve adaptar o último código mencionado acima, para que o usuário informe o número que deve ser testado e identificado se Par ou Impar. <br>
