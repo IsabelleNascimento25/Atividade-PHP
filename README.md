@@ -1,8 +1,6 @@
 # Atividade-PHP
 # Índice
 [Projeto - ](#projeto---portifolio-para-escrita-do-readme)  
-[Descrição](#descri%C3%A7%C3%A3o)  
-[Funcionalidades](#funcionalidades)  
 [Tecnologias ultilizadas](#tecnologias-ultilizadas)    
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
