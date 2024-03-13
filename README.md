@@ -18,8 +18,7 @@ ATENÇÃO: TODOS os números devem ser informados pelo usuário. <br>
 Disciplina: Programação Web II. <br>
 Professor: Leonardo Santiago Sidon da Rocha.
 ## 📱Tecnologias utilizadas
- * <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br>
-  javascript <br>
+
  * <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
   HTML<br>
  * <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"><br>
